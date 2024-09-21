@@ -1,0 +1,49 @@
+# The Daniel Modpack
+the goal is to make a modpack that leverages create and addons to make one large tech mod, so that the rest of the pack can be dedicated to exploration!
+
+## Things I am trying to fix in minecraft
+
+* **More things to do in the mid game** : I feel that minecrafts mid game has been stale and alot of cool mechanics in the game are locked behind hours of grind or a deep technical understanding of the game
+
+* **Exploration** : I understand that the underlying philosphy of minecraft is emergent gameplay, however I feel like having a clearly defined path makes deviation and emergent gameplay more fun. 
+
+* **Make a harder but rewarding experience** : I want there to be places the player can always find a difficult challenge, I find that modern minecraft is too easy as it tries to appeal to a mass audience. This isnt to say that I want the game to be difficult and unforgiving at all points in the game, like d&d there needs to be sections of downtime where players can relax, and even moments where the player feels like a total badass. 
+
+* **Encourage Emergent Gameplay with Interoperability** : I think one of the reasons minecraft is so successful is the multitude of ways that features interact with one another. I feel like my biggest complaint is that a majority of new additions to minecraft feel like isolated additions to the game. My goal is to make all of my additions feel like a part of a greater whole. 
+
+## Main Mods
+* Alex's Caves/ Ice and Fire/ Alex's Mobs / Rats : I like alex's designs and enjoy the overall polish that these mods have. Encourages exploration
+
+* Create : Our Techmod we will use for mostly everything
+
+* Ars novou : Vinilla like magic implementation
+
+* Botania : Works really well with Create
+
+* Twilight Forrest / Aether / Dimension Stacking : Classic Dimension mods that add the feeling of wonder I felt when playing minecraft for the first time. 
+
+* Some Terrian mod / Distant Horizons : I feel like Distant horizons puts a fresh coat of paint on an otherwise old game, makes the game feel more epic.
+
+## Challenges
+ * **Create Addons** : Create is a fantastic mod it does not offer enough features to be an all encompasing tech mod, this is where addons come into play. However these addons have overlapping resources and different ways of obtaining said resources for example **OIL** and **Radioactive Material**. These mods also have overlapping machines that I need to remove somehow 
+
+
+## 9/21 Current Mods and the Vision has changed
+### **Create:**
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+* Clockwork adds airships and boats
+* Steam and Rails adds better trains
+* Slice and dice and Central kitchen adds more food
+
+### **Magic:**
+![alt text](image-4.png)
+
+* Ars magica and farmers delight and create compatiablity mods
+* Considering adding blood magic and blood tome
+
+## **Exploration:**
+![alt text](image-5.png)
+
+* Addes alex's caves and mobs and some compatiblity with farmers delight
